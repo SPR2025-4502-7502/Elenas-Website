@@ -1,0 +1,103 @@
+nav{
+	margin: auto;
+	max-width: 600px;
+	font-size: 1.2rem;
+	text-transform: uppercase;
+
+
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	background-color: rgba(16, 162, 196, 0.8);
+    }
+
+
+nav ul li a {
+.aleo-<uniquifier> {
+  font-family: "Aleo", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+}
+
+nav ul li a:visited {
+	.aleo-<uniquifier> {
+  font-family: "Aleo", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: italic;
+}
+
+}	
+
+h1 {
+	display: flex;
+	justify-content: center;
+	.neuton-bold {
+  	font-family: "Neuton", serif;
+  	font-weight: 700;
+ 	 font-style: normal;
+	}
+}
+
+p {
+	.tajawal-regular {
+  font-family: "Tajawal", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+
+.list-item{
+
+	font-family: "Neuton", serif;
+  	font-weight: 700;
+ 	 font-style: normal;
+
+}
+
+
+
+.poster img{
+
+	max-width: 275px;
+	margin: 1rem;
+	border-radius: 0.4rem;
+}
+
+
+
+
+
+@media screen and (min-width:500px){
+
+body{
+
+	flex-direction: column !important;
+		margin: 3rem;
+}
+
+		flex-direction: co !important;
+		margin: 3rem;
+}
+
+
+@media screen and (min-width:800px){
+
+	.poster {
+
+		flex-direction: row !important;
+		margin: 3rem;
+	}
+}
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+
+}
